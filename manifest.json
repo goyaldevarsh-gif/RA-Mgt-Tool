@@ -1,0 +1,15 @@
+{
+  "name": "RA Disease Activity Tracker",
+  "short_name": "RA Tracker",
+  "description": "Personal multi-patient rheumatoid arthritis tracker \u2014 DAS28/CDAI/SDAI scoring across visits, treatment history, and C-spine safety flags.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#6d28d9",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
